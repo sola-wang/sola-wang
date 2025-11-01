@@ -1,9 +1,10 @@
 # Hi there, you found me 😄
 
 ## 👨‍💻 About Me
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)![Profile Views](https://komarev.com/ghpvc/?username=yourname)
+![Profile Views](https://komarev.com/ghpvc/?username=yourname)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=yourname)
 
 I am an **Embedded Systems Engineer** specializing in firmware, hardware, and control algorithms.  
 My work spans across **STM32**, **GD32**, and **RISC-V** microcontrollers, with experience in **FOC motor control**, **Klipper firmware**, and **I2S + DMA IO expansion**.
