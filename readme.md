@@ -2,8 +2,7 @@
 
 ## 👨‍💻 About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourname)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)![Profile Views](https://komarev.com/ghpvc/?username=yourname)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true)
 
 I am an **Embedded Systems Engineer** specializing in firmware, hardware, and control algorithms.  
