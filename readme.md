@@ -1,7 +1,6 @@
 # Hi there, you found me 😄
 
 ## 👨‍💻 About Me
-![Profile Views](https://komarev.com/ghpvc/?username=yourname)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=yourname)
